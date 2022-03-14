@@ -1,0 +1,19 @@
+#cat requirements.txt
+pyttsx3
+datetime
+SpeechRecognition
+secure-smtplib
+pyautogui
+wikipedia
+pywhatkit
+clipboard
+pyjokes
+psutil
+locationtagger
+opencv-python
+newsapi-python
+PyQt5
+pywikihow
+spacy
+mediapipe
+pycaw
